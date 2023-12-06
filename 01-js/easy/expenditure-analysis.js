@@ -6,6 +6,11 @@
 */
 
 function calculateTotalSpentByCategory(transactions) {
+  const ans = ;
+  for(let obj in transactions){
+    ans[obj.category] = 
+  }
+
   return [];
 }
 
